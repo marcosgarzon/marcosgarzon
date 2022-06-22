@@ -24,7 +24,7 @@ JSX & Transpiling, Componentes, Promises, Asincronía y MAP, Consumo de APIs, Ro
 Certificado:
 https://www.coderhouse.com/certificados/62b0ed7a6b98490024b1c02a
 
-# Contactame:
+# Contacto:
 marcosgarzonmdq@gmail.com
 <!--
 **marcosgarzon/marcosgarzon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
