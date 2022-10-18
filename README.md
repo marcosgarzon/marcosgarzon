@@ -1,30 +1,30 @@
 ### ¡Hola! 👋
 
-Actualmente llevo realizados, entre otros, 3 cursos de Front-End ya certificados sobre los cuales sigo desarrollandome y continúo además cursando en horario nocturno Programación Back-End.
+Currently I have completed, among others, 3 Front-End courses already certified on which I continue to develop and I also continue studying Back-End Programming at night.  
 
-Los cursos realizados en CODERHOUSE son los siguientes:
+The courses carried out in CODERHOUSE are the following:  
 
-# Desarrollo Web
+# Web development  
 
-Prototipado, HTML5, CSS3, Wireframe, Box modelling, Flexbox, Grids, Animaciones, Transiciones, @media + pseudoclases, Bootstrap 5, SASS - SCSS, GIT, GitHub, Uso de frameworks alternativos (Google Fonts, Fontawsome, AOS, etc.), Iframes, Manejo de servidores, Subida a servidores FTP, Subida a servidores vinculados a GitHub, NPM, SASS Live Compiler, SEO.
+Prototyping, HTML5, CSS3, Wireframe, Box modeling, Flexbox, Grids, Animations, Transitions, @media + pseudoclasses, Bootstrap 5, SASS - SCSS, GIT, GitHub, Use of alternative frameworks (Google Fonts, Fontawsome, AOS, etc.) , Iframes, Server management, Upload to FTP servers, Upload to servers linked to GitHub, NPM, SASS Live Compiler, SEO.  
 
-Certificado:
+Certificate:
 https://www.coderhouse.com/certificados/61f2f230e2a0590a1568245b
 
 # Javascript
-Sintaxis y variables, Control de flujos, Ciclos/Iteraciones, Programación con funciones, Objetos, Arrays, Funciones de orden superior, DOM, Métodos de arrays, Math y Date, Eventos, Storage y JSON, Workshop, Operadores avanzados, Sugar Syntax, Librerías, Promises & Async, AJAX y Fetch, Async Await, Frameworks + Node JS.
+Syntax and Variables, Flow Control, Loops/Iterations, Programming with Functions, Objects, Arrays, Higher Order Functions, DOM, Array Methods, Math and Date, Events, Storage and JSON, Workshop, Advanced Operators, Sugar Syntax, Libraries , Promises & Async, AJAX and Fetch, Async Await, Frameworks + Node JS.
 
-Certificado:
+Certificate:
 https://www.coderhouse.com/certificados/628ec91f54abb40020c002f6
 
 # React JS
 
-JSX & Transpiling, Componentes, Promises, Asincronía y MAP, Consumo de APIs, Routing y Navegación, Eventos, Context, Técnicas de rendering, Firebase.
+JSX & Transpiling, Components, Promises, Asynchrony and MAP, API consumption, Routing and Navigation, Events, Context, Rendering techniques, Firebase.  
 
-Certificado:
+Certificate:
 https://www.coderhouse.com/certificados/62b0ed7a6b98490024b1c02a
 
-# Contacto:
+# Contact:
 marcosgarzonmdq@gmail.com
 <!--
 **marcosgarzon/marcosgarzon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
