@@ -1,4 +1,4 @@
-### ¡Hola! 👋
+### ¡Hi! 👋
 
 Currently I have completed, among others, 3 Front-End courses already certified on which I continue to develop and I also continue studying Back-End Programming at night.  
 
