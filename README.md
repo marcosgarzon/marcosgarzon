@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-Currently, I have completed four certified courses to become a Full-Stack developer. Additionally, I am pursuing a degree in programming and I am still studying towards a Technical Degree in Programming.
+Currently, I have completed four certified courses to become a Full-Stack developer. Additionally, I am pursuing a degree in programming and studying to become a technical programmer.
 
 The courses carried out in CODERHOUSE are the following:  
 
