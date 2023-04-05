@@ -1,6 +1,6 @@
-### ¡Hi! 👋
+### Hi there! 👋
 
-Currently I have completed, among others, 3 Front-End courses already certified on which I continue to develop and I also continue studying Back-End Programming at night.  
+Currently, I have completed four certified courses to become a Full-Stack developer. Additionally, I am pursuing a degree in programming and I am still studying towards a Technical Degree in Programming.
 
 The courses carried out in CODERHOUSE are the following:  
 
@@ -23,6 +23,13 @@ JSX & Transpiling, Components, Promises, Asynchrony and MAP, API consumption, Ro
 
 Certificate:
 https://www.coderhouse.com/certificados/62b0ed7a6b98490024b1c02a
+
+# Backend
+
+Synchronous and Asynchronous Programming, Handling Files in Javascript, Package Managers - NPM, Web Servers, Advanced Express, Router & Multer, Template Engines, Pug & Ejs, Websockets, Chat Application with Websockets, Node.js as a Development Tool, Webpack: Module Bundler, SQL and Node.js, MongoDB, CRUD in MongoDB, Mongoose, DbaaS & Firebase, Working with Mock Data, Working with Normalization, Cookies, Sessions, Storages, Authorization and Authentication, Authentication Strategies with Social Networks, Main Server Process, Global & Child Process, Clusters & Scalability, PROXY & NGINX, Logs, Profiling & Debug, Logs, Heroku as a Cloud Product, AWS as a Cloud Product, Messaging and Security, Twilio & OWASP, Versions & Packages, Layered Architecture, Server Architecture: Design & Persistence, Development of a Full Layered Web Server, Functionality Testing, API Documentation, GraphQL, Backend Development Frameworks, Development of a REST API in Deno. 
+
+Certificate:
+https://www.coderhouse.com/certificados/64146ea1b9fbb30002b72da2
 
 # Contact:
 marcosgarzonmdq@gmail.com
