@@ -31,6 +31,11 @@ Synchronous and Asynchronous Programming, Handling Files in Javascript, Package 
 Certificate:
 https://www.coderhouse.com/certificados/64146ea1b9fbb30002b72da2
 
+# Career Certificate
+
+Certificate:
+https://www.coderhouse.com/certificados/64146ea1b9fbb30002b72da8
+
 # Contact:
 marcosgarzonmdq@gmail.com
 <!--
